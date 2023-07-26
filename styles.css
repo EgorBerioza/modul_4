@@ -1,0 +1,22 @@
+h1 {
+    background: red;
+}
+
+.xs {
+    background: blue;
+    color: green;
+    font-size: 32pt;
+}
+
+.xc {
+    border: 10px solid yellow;
+    font-size: 24pt;
+    border-radius: 25px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+}
+
+.xv {
+    font-weight: bold;
+    font-family: Courier New;
+}
